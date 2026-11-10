@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27597978/README.md)
 # Downloads Folder Organizer
 
 A Python script that automatically organizes files in your Downloads folder by sorting them into subfolders based on their file type.
